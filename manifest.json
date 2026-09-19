@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Select",
+  "description": "Select the three first items on the screen using shortcuts (1, 2, 3)",
+  "version": "0.0.1",
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["extension.js"]
+    }
+  ]
+}
+
+
