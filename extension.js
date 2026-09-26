@@ -42,7 +42,7 @@ function markPoint(x, y) {
 
   document.body.appendChild(point)
 
-  setTimeout(() => point.remove(), 1000)
+  setTimeout(() => point.remove(), 400)
 }
 
 document.addEventListener('keydown', ev => {
