@@ -34,7 +34,7 @@ Chrome will install the extension and it will be ready to use.
 
 ## Demo
 
-![Video](./assets/demo.mp4)
+[Youtube Link](https://youtu.be/kRL-KH17ozE)
 
 #### Notes
 
